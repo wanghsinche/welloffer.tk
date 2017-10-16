@@ -80,9 +80,22 @@ JSZipUtils.getBinaryContent = function(path, callback) {
             xhr.overrideMimeType("text/plain; charset=x-user-defined");
         }
         // try to bind progress event
+        var total = 100, delta = 1;
         xhr.onprogress = function(pe) {
-            if(pe.lengthComputable && typeof JSZipUtils.onprogress === 'function') {
-                JSZipUtils.onprogress(pe.total, pe.loaded);
+            if(typeof JSZipUtils.onprogress === 'function') {
+                if(pe.lengthComputable){
+                    JSZipUtils.onprogress(pe.total, pe.loaded);    
+                }
+                else{
+                    delta++;
+                    if(delta < 80){
+                        JSZipUtils.onprogress(total, delta);    
+                    }
+                    else{
+                        delta -= (delta/total);
+                        JSZipUtils.onprogress(total, delta); 
+                    }
+                }
             }
         }
         xhr.onreadystatechange = function(evt) {
