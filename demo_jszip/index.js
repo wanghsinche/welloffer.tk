@@ -1,5 +1,11 @@
 // loading a zip file
-JSZipUtils.getBinaryContent('./cgs.zip', function (err, data) {
+var mypg = document.querySelector('progress');
+JSZipUtils.onprogress = function(total,current){
+	mypg.max = total;
+	mypg.value = current;
+};
+
+JSZipUtils.getBinaryContent('./big.zip', function (err, data) {
    if(err) {
       throw err; // or handle the error
    }
