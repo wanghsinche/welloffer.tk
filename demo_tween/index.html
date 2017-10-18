@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>tween</title>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tween.js/16.3.5/Tween.min.js"></script>
+</head>
+<body>
+	<script type="text/javascript">
+		var box = document.createElement('div');
+		box.style.setProperty('background-color', '#008800');
+		box.style.setProperty('width', '100px');
+		box.style.setProperty('height', '100px');
+		document.body.appendChild(box);
+
+		// Setup the animation loop.
+		var last = 0,canPlay,ended;
+		function animate(time) {
+			if(~~(time%4)===0){
+				//reduce frequence
+				TWEEN.update(time);
+			}
+			requestAnimationFrame(animate);
+		}
+		requestAnimationFrame(animate);
+
+
+		var frame = {val:0};
+		var frameAnim1 = new TWEEN.Tween(frame)
+			.to({val:40}, 500)
+			.onUpdate(function(pr){
+				// render Function here
+				console.log('frame',~~frame.val);
+			});
+
+		var frameAnim2 = new TWEEN.Tween(frame)
+			.to({val:120},1000)
+			.onUpdate(function(){
+				console.log('frame',~~frame.val);
+			});
+
+		var faceFrame = {val:0};
+		var faceAnim = new TWEEN.Tween(faceFrame)
+			.to({val:36}, 500)
+			.onUpdate(function(pr){
+				// render Function here
+				console.log('face++',~~faceFrame.val);
+			})
+			.onComplete(function(){
+				console.log('ok');
+			});
+
+		frameAnim1.chain(faceAnim,frameAnim2);
+
+		setTimeout(function(){
+			frameAnim1.start();
+			
+		},1000);
+	</script>
+</body>
+</html>
