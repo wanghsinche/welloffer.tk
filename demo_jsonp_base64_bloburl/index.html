@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>base642bloburl</title>
+    <link rel="stylesheet" href="">
+    <script src="https://cdn.bootcss.com/zepto/1.2.0/zepto.min.js"></script>
+</head>
+<body>
+
+    <script>
+        function appendImg(url){
+            var img = new Image();
+            img.src = url;
+            document.body.appendChild(img);
+        }
+        function base64ToBlobURL(dataURL, callback){
+            var img = new Image();
+            var c = document.createElement('canvas');
+            var ctx = c.getContext('2d');
+            var urlCreator = window.URL || window.webkitURL;
+            img.onload = function() {
+              console.log('base64',this);
+              c.width = this.naturalWidth;     // update canvas size to match image
+              c.height = this.naturalHeight;
+              ctx.drawImage(this, 0, 0);       // draw in image
+              c.toBlob(function(blob) {        // get content as JPEG blob
+                callback(urlCreator.createObjectURL(blob));
+              }, 'image/jpeg', 0.75);
+            };
+            img.crossOrigin = '';              // if from different origin
+            img.src = dataURL;
+        }
+        $.ajax({
+            url:'https://mypage.pek3a.qingstor.com/demo_jszip/jsonp.js',
+            dataType:'jsonp',
+            jsonpCallback:'myjsonpcallback',
+            success:function(base64Ls){
+                var imageLs = [];
+                var counter = base64Ls.length;
+                base64Ls.forEach(function(v){
+                    base64ToBlobURL(v, function(bloburl){
+                        var img = new Image();
+                        img.onload = function(){
+                            console.log(img.crossOrigin);
+                            --counter;
+                            if(!counter){
+                                console.log('bloburl',imageLs); 
+                            }
+                        };
+                        img.src = bloburl;
+                        imageLs.push(img);
+                    });
+                });
+            }
+        });
+        $.ajax({
+            url:'https://mypage.pek3a.qingstor.com/demo_jszip/jsonp.js',
+            dataType:'jsonp',
+            jsonpCallback:'myjsonpcallback',
+            success:function(base64Ls){
+                base64Ls.forEach(function(v){
+                    base64ToBlobURL(v, function(bloburl){
+                        appendImg(bloburl);
+                    });
+                });
+            }
+        });
+        
+    </script>
+</body>
+</html>
+
+    
