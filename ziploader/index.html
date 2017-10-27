@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initail-scale=1">
+        <title>ziploader</title>
+        <script src="https://unpkg.com/zip-loader@0.2.4/dist/ZipLoader.js"></script>
+        <script src="https://nie.res.netease.com/comm/js/nie/ref/polyfill.min.js"></script>
+    </head>
+    <body>
+        <script>
+
+        function createElement(tag, props, children){
+            var ele = document.createElement(tag);
+            if(!!props){
+                Object.assign(ele, props);    
+            }
+            if(children instanceof Array){
+                children.forEach(function(child){
+                    ele.appendChild(child);
+                });    
+            }
+            return ele;
+        }
+        var loader = new ZipLoader( './asserts.swf' );
+        loader.on( 'progress', function ( e ) {
+            console.log( 'loading', e.loaded, e.total );
+        } );
+        loader.on( 'load', function (  ) {
+            document.head.appendChild(createElement('link',{
+                rel:'stylesheet',
+                href:loader.extractAsBlobUrl('asserts/style.css','text/css')
+            }));
+            document.body.appendChild(createElement('script',{
+                src:loader.extractAsBlobUrl('asserts/test.js','text/javascript')
+            }));
+            document.body.appendChild(createElement('div',{},
+            [
+            createElement('img',{
+                src:loader.extractAsBlobUrl('asserts/hulu.png','image/png')
+            }),
+            createElement('img',{
+                src:loader.extractAsBlobUrl('asserts/hulu.png','image/png')
+            })]));
+            
+        } );
+        loader.load();
+        </script>
+    </body>
+</html>
