@@ -15,6 +15,7 @@ def main():
             [0, 1, 'no'], [0, 1, 'no']
             ])
     print tree.cal_shannon_ent(dataset)
+    print tree.cal_con_shannon_ent(dataset, 1)
 
 if __name__ == '__main__':
     main()

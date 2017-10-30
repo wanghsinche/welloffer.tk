@@ -31,3 +31,28 @@ def cal_shannon_ent(dataset):
         shannon_ent += prob * math.log(prob, 2)
     return shannon_ent
                                                                  
+
+def cal_con_shannon_ent(dataset, col):
+    # split dataset
+    # by column value
+    val_class_map = {}
+    total_row = float(len(dataset))
+    for val in dataset:
+        k = val[col]
+        if val_class_map.has_key(k):
+            val_class_map[k].append(val)
+        else:
+            val_class_map[k] = [val]
+    # to np array
+    for row in val_class_map.iterkeys():
+        val_class_map[row] = np.array(val_class_map[row])
+    # calculate entropy
+    con_shannon_ent = 0.0
+    for val_class_row in val_class_map.itervalues():
+        di_d = len(val_class_row) / total_row
+        con_shannon_ent += di_d * cal_shannon_ent(val_class_row)
+    return con_shannon_ent, val_class_map
+    
+    
+    
+    
