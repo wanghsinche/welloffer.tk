@@ -1,0 +1,6402 @@
+name
+ password
+  login
+            clearNoncedb
+listening on 8000
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 29, name: '余徐波', code: '11725039' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1532,
+  goodid: 1532,
+  userid: 29,
+  invoiceid: 1533,
+  markid: 1533,
+  date: 1506687094691 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '1157', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+10/29/2017
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 29, name: '余徐波', code: '11725039' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6561', superuser: false }
+read data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 30, name: '王靖', code: '21625223' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '4122', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '80505684497947537',
+     name: '气体动力学基础',
+     price: 61.9,
+     priceall: 61.9,
+     num: 1,
+     buyDate: 1509254898869 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.4f8164fcQdSOZt&bizOrderId=80505684497947537',
+     content: null },
+  userid: 30 }
+insert detail to data base
+insert rowid is 1579
+insert rowid is 1580
+insert rowid is 1580
+insert rowid is 1579
+Message <3cebcd7d-29e4-39ec-b426-1a4e46828145@163.com> sent: 250 Mail OK queued as smtp9,DcCowAD3F1k2Z_VZggSdOQ--.40451S2 1509254967
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '80581424367947537',
+     name: '气动接头',
+     price: 107.8,
+     priceall: 107.8,
+     num: 1,
+     buyDate: 1509264704300 },
+  invs: { code: null, price: 107.8, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?biz_order_id=80581424367947537&forward_action=',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1580
+insert rowid is 1581
+insert rowid is 1581
+insert rowid is 1580
+Message <2b881e49-258d-a2e9-9057-12b1d72b15b6@163.com> sent: 250 Mail OK queued as smtp9,DcCowADnAFJ6jfVZYZ+pOQ--.40247S2 1509264763
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '8699', superuser: true }
+read data base
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+10/30/2017
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 33, name: '艾志强', code: '3140104893' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+{ recid: 1537,
+  goodid: 1537,
+  userid: 33,
+  invoiceid: 1538,
+  markid: 1538,
+  date: 1506934002025 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+{ recid: 1531,
+  goodid: 1531,
+  userid: 33,
+  invoiceid: 1532,
+  markid: 1532,
+  date: 1506684654449 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+{ recid: 1537,
+  goodid: 1537,
+  userid: 33,
+  invoiceid: 1538,
+  markid: 1538,
+  date: 1506934002025 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+{ recid: 1537,
+  goodid: 1537,
+  userid: 33,
+  invoiceid: 1538,
+  markid: 1538,
+  date: 1506934002025 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+{ recid: 1537,
+  goodid: 1537,
+  userid: 33,
+  invoiceid: 1538,
+  markid: 1538,
+  date: 1506934002025 }
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+{ recid: 1537,
+  goodid: 1537,
+  userid: 33,
+  invoiceid: 1538,
+  markid: 1538,
+  date: 1506934002025 }
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81121376771947537',
+     name: '铝型材',
+     price: 372,
+     priceall: 372,
+     num: 1,
+     buyDate: 1509355845166 },
+  invs: { code: null, price: 372, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.64573177rc1mzI&bizOrderId=81121376771947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+insert rowid is 1581
+insert rowid is 1582
+insert rowid is 1582
+insert rowid is 1581
+Message <060c52cc-7a0a-e1ad-d505-c12d0ad2e86b@163.com> sent: 250 Mail OK queued as smtp10,DsCowAA3Q6mF8fZZh2Y+BQ--.23352S2 1509355910
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81121376771947537',
+     name: '铝型材',
+     price: 372,
+     priceall: 372,
+     num: 1,
+     buyDate: 1509355845166 },
+  invs: { code: null, price: 372, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.64573177rc1mzI&bizOrderId=81121376771947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+{ code: -1, msg: '订单号已经存在,不要重复提交' }
+old nonce, new time, update
+14 15
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9960', superuser: false }
+read data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 33, name: '艾志强', code: '3140104893' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '1623', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '1623', superuser: false }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '1623', superuser: false }
+read data base
+{ recid: 1581,
+  goodid: 1581,
+  userid: 33,
+  invoiceid: 1582,
+  markid: 1582,
+  date: 1509355909821 }
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+clearNoncedb
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81221367720947537',
+     name: '开关',
+     price: 106,
+     priceall: 106,
+     num: 1,
+     buyDate: 1509359478499 },
+  invs: { code: null, price: 106, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=81221367720947537',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1582
+insert rowid is 1583
+insert rowid is 1583
+insert rowid is 1582
+Message <07cd90cf-84b8-2523-3013-7dbf9efdccf7@163.com> sent: 250 Mail OK queued as smtp7,C8CowAC3vTmjBfdZ+LvANw--.52855S2 1509361060
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '1961', superuser: true }
+read data base
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 36, name: '楼嵩', code: '3150102681' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '3295', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '3295', superuser: false }
+read data base
+{ recid: 1555,
+  goodid: 1555,
+  userid: 36,
+  invoiceid: 1556,
+  markid: 1556,
+  date: 1508070542041 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '3295', superuser: false }
+read data base
+{ recid: 1555,
+  goodid: 1555,
+  userid: 36,
+  invoiceid: 1556,
+  markid: 1556,
+  date: 1508070542041 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '3295', superuser: false }
+read data base
+{ recid: 1543,
+  goodid: 1543,
+  userid: 36,
+  invoiceid: 1544,
+  markid: 1544,
+  date: 1507431897842 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '3295', superuser: false }
+read data base
+{ recid: 1543,
+  goodid: 1543,
+  userid: 36,
+  invoiceid: 1544,
+  markid: 1544,
+  date: 1507431897842 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '3295', superuser: false }
+read data base
+{ recid: 1555,
+  goodid: 1555,
+  userid: 36,
+  invoiceid: 1556,
+  markid: 1556,
+  date: 1508070542041 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '3295', superuser: false }
+read data base
+{ recid: 1543,
+  goodid: 1543,
+  userid: 36,
+  invoiceid: 1544,
+  markid: 1544,
+  date: 1507431897842 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '3295', superuser: false }
+read data base
+{ recid: 1543,
+  goodid: 1543,
+  userid: 36,
+  invoiceid: 1544,
+  markid: 1544,
+  date: 1507431897842 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '3295', superuser: false }
+read data base
+{ recid: 1555,
+  goodid: 1555,
+  userid: 36,
+  invoiceid: 1556,
+  markid: 1556,
+  date: 1508070542041 }
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ good: { price: 16.74, priceall: 83.7, num: 5 },
+  invs: 
+   { code: '12038032',
+     price: 87.7,
+     date: 1509811200000,
+     type: '增值税普通发票' },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.65870a8bsUDObc&amp;bizOrderId=73901326444947537',
+     content: '电子元器件' },
+  userid: 36,
+  recordid: '1555' }
+change detail to data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 36, name: '楼嵩', code: '3150102681' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '2108', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '2108', superuser: false }
+read data base
+{ recid: 1555,
+  goodid: 1555,
+  userid: 36,
+  invoiceid: 1556,
+  markid: 1556,
+  date: 1508070542041 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81244856703947537',
+     name: '碳纤维加工做骨架',
+     price: 640,
+     priceall: 640,
+     num: 1,
+     buyDate: 1509372742778 },
+  invs: { code: null, price: NaN, date: 1509811200000, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=81244856703947537',
+     content: null },
+  userid: 36 }
+insert detail to data base
+insert rowid is 1583
+insert rowid is 1584
+insert rowid is 1584
+insert rowid is 1583
+Message  sent: 250 Mail OK queued as smtp9,DcCowACXtVawM_dZpFA8Og--.42827S2 1509372849
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '2108', superuser: false }
+read data base
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '2108', superuser: false }
+read data base
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '2108', superuser: false }
+read data base
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '2108', superuser: false }
+read data base
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '2108', superuser: false }
+read data base
+old nonce, new time, update
+8 10
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81343950951947537',
+     name: 'JGB电机',
+     price: 74.1,
+     priceall: 306.4,
+     num: 4,
+     buyDate: 1509373152241 },
+  invs: { code: null, price: NaN, date: 1509811200000, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.49bff772zPjJtZ&bizOrderId=81343950951947537',
+     content: null },
+  userid: 36 }
+insert detail to data base
+insert rowid is 1584
+insert rowid is 1585
+insert rowid is 1585
+insert rowid is 1584
+Message <9f11ed44-171d-0837-b523-4bd15be6281e@163.com> sent: 250 Mail OK queued as smtp12,EMCowACHNbqwNfdZ587KFQ--.26172S2 1509373361
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '2108', superuser: false }
+read data base
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81347646997947537',
+     name: '舵机及舵盘',
+     price: 89.96,
+     priceall: 89.96,
+     num: 1,
+     buyDate: 1509373364825 },
+  invs: { code: null, price: NaN, date: 1509897600000, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.2f77b7db4Bn8Sp&bizOrderId=81347646997947537',
+     content: null },
+  userid: 36 }
+insert detail to data base
+insert rowid is 1585
+insert rowid is 1586
+insert rowid is 1586
+insert rowid is 1585
+Message <40fdb002-c831-de66-709a-335a7044a211@163.com> sent: 250 Mail OK queued as smtp7,C8CowAB3ekAYNvdZ0yzQNw--.53831S2 1509373465
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81347646997947537',
+     name: '舵机及舵盘',
+     price: 89.96,
+     priceall: 89.96,
+     num: 1,
+     buyDate: 1509373364825 },
+  invs: { code: null, price: NaN, date: 1509897600000, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.2f77b7db4Bn8Sp&bizOrderId=81347646997947537',
+     content: null },
+  userid: 36 }
+insert detail to data base
+{ code: -1, msg: '订单号已经存在,不要重复提交' }
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81347646997947537',
+     name: '舵机及舵盘',
+     price: 89.96,
+     priceall: 89.96,
+     num: 1,
+     buyDate: 1509373364825 },
+  invs: { code: null, price: NaN, date: 1509897600000, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.2f77b7db4Bn8Sp&bizOrderId=81347646997947537',
+     content: null },
+  userid: 36 }
+insert detail to data base
+{ code: -1, msg: '订单号已经存在,不要重复提交' }
+old nonce, new time, update
+14 15
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81347646997947537',
+     name: '舵机及舵盘',
+     price: 89.96,
+     priceall: 89.96,
+     num: 1,
+     buyDate: 1509373364825 },
+  invs: { code: null, price: NaN, date: 1509897600000, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.2f77b7db4Bn8Sp&bizOrderId=81347646997947537',
+     content: null },
+  userid: 36 }
+insert detail to data base
+{ code: -1, msg: '订单号已经存在,不要重复提交' }
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 36, name: '楼嵩', code: '3150102681' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1584,
+  goodid: 1584,
+  userid: 36,
+  invoiceid: 1585,
+  markid: 1585,
+  date: 1509373360214 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1585,
+  goodid: 1585,
+  userid: 36,
+  invoiceid: 1586,
+  markid: 1586,
+  date: 1509373464611 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1585,
+  goodid: 1585,
+  userid: 36,
+  invoiceid: 1586,
+  markid: 1586,
+  date: 1509373464611 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1584,
+  goodid: 1584,
+  userid: 36,
+  invoiceid: 1585,
+  markid: 1585,
+  date: 1509373360214 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1583,
+  goodid: 1583,
+  userid: 36,
+  invoiceid: 1584,
+  markid: 1584,
+  date: 1509372848898 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1584,
+  goodid: 1584,
+  userid: 36,
+  invoiceid: 1585,
+  markid: 1585,
+  date: 1509373360214 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1583,
+  goodid: 1583,
+  userid: 36,
+  invoiceid: 1584,
+  markid: 1584,
+  date: 1509372848898 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1584,
+  goodid: 1584,
+  userid: 36,
+  invoiceid: 1585,
+  markid: 1585,
+  date: 1509373360214 }
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1585,
+  goodid: 1585,
+  userid: 36,
+  invoiceid: 1586,
+  markid: 1586,
+  date: 1509373464611 }
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1584,
+  goodid: 1584,
+  userid: 36,
+  invoiceid: 1585,
+  markid: 1585,
+  date: 1509373360214 }
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1583,
+  goodid: 1583,
+  userid: 36,
+  invoiceid: 1584,
+  markid: 1584,
+  date: 1509372848898 }
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1584,
+  goodid: 1584,
+  userid: 36,
+  invoiceid: 1585,
+  markid: 1585,
+  date: 1509373360214 }
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ userid: 36, nonce: '6775', superuser: false }
+read data base
+{ recid: 1585,
+  goodid: 1585,
+  userid: 36,
+  invoiceid: 1586,
+  markid: 1586,
+  date: 1509373464611 }
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+10/31/2017
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 39, name: '胡健力', code: '21525130' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '79635360782947537',
+     name: '单头外六角铝柱 M3*10+6 M3*32+6 M3*20+6 M3*40+6 多轴联接柱',
+     price: 2.7,
+     priceall: 140,
+     num: 40,
+     buyDate: 1509087760000 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=79635360782947537',
+     content: null },
+  userid: 39 }
+insert detail to data base
+{ code: -1, msg: '订单号已经存在,不要重复提交' }
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 39, name: '胡健力', code: '21525130' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '79635360782947537',
+     name: '单头外六角铝柱 M3*10+6 M3*32+6 M3*20+6 M3*40+6 多轴联接柱',
+     price: 2.7,
+     priceall: 140,
+     num: 40,
+     buyDate: 1509087835000 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=79635360782947537',
+     content: null },
+  userid: 39 }
+insert detail to data base
+{ code: -1, msg: '订单号已经存在,不要重复提交' }
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '79635360782947537',
+     name: '单头外六角铝柱 M3*10+6 M3*32+6 M3*20+6 M3*40+6 多轴联接柱',
+     price: 2.7,
+     priceall: 140,
+     num: 40,
+     buyDate: 1509087835000 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=79635360782947537',
+     content: null },
+  userid: 39 }
+insert detail to data base
+{ code: -1, msg: '订单号已经存在,不要重复提交' }
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 39, name: '胡健力', code: '21525130' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81584889807947537\t',
+     name: '单头外六角铝柱 M3*10+6 M3*32+6 M3*20+6 M3*40+6 多轴联接柱',
+     price: 2.7,
+     priceall: 54,
+     num: 20,
+     buyDate: 1509433506847 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=81584889807947537',
+     content: null },
+  userid: 39 }
+insert detail to data base
+insert rowid is 1586
+insert rowid is 1587
+insert rowid is 1587
+insert rowid is 1586
+Message  sent: 250 Mail OK queued as smtp1,C9GowAD3hlT1IPhZp2MGAA--.421S2 1509433589
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+{ recid: 1562,
+  goodid: 1562,
+  userid: 39,
+  invoiceid: 1563,
+  markid: 1563,
+  date: 1508507484257 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '80047969243947537',
+     name: '碳纤维板加工 碳纤板加工 碳纤维模型配件加工雕刻 碳纤航模加工',
+     price: 600,
+     priceall: 600,
+     num: 1,
+     buyDate: 1509088026000 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=80047969243947537',
+     content: null },
+  userid: 39 }
+insert detail to data base
+insert rowid is 1587
+insert rowid is 1588
+insert rowid is 1588
+insert rowid is 1587
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '79905058004947537',
+     name: '碳纤维板加工 碳纤板加工 碳纤维模型配件加工雕刻 碳纤航模加工',
+     price: 630,
+     priceall: 630,
+     num: 1,
+     buyDate: 1509088076000 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=79905058004947537',
+     content: null },
+  userid: 39 }
+insert detail to data base
+insert rowid is 1588
+insert rowid is 1589
+insert rowid is 1589
+insert rowid is 1588
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+{ recid: 1587,
+  goodid: 1587,
+  userid: 39,
+  invoiceid: 1588,
+  markid: 1588,
+  date: 1509433661191 }
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+{ recid: 1586,
+  goodid: 1586,
+  userid: 39,
+  invoiceid: 1587,
+  markid: 1587,
+  date: 1509433589100 }
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 33, name: '艾志强', code: '3140104893' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '9899', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81629299440947537',
+     name: '螺纹电机',
+     price: 23.5,
+     priceall: 94,
+     num: 4,
+     buyDate: 1509435185909 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=81629299440947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+insert rowid is 1589
+insert rowid is 1590
+insert rowid is 1590
+insert rowid is 1589
+Message <5f5e2e07-a899-c5b8-2057-17863e036b6d@163.com> sent: 250 Mail OK queued as smtp12,EMCowACnVbqhJ_hZtowTFg--.28671S2 1509435298
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+{ recid: 1586,
+  goodid: 1586,
+  userid: 39,
+  invoiceid: 1587,
+  markid: 1587,
+  date: 1509433589100 }
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+{ recid: 1586,
+  goodid: 1586,
+  userid: 39,
+  invoiceid: 1587,
+  markid: 1587,
+  date: 1509433589100 }
+old nonce, new time, update
+14 15
+getPSWD read data base
+authorized successfully
+{ good: { price: 2.7, priceall: 84, num: 20 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=81584889807947537',
+     content: null },
+  userid: 39,
+  recordid: '1586' }
+change detail to data base
+old nonce, new time, update
+15 16
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+{ recid: 1588,
+  goodid: 1588,
+  userid: 39,
+  invoiceid: 1589,
+  markid: 1589,
+  date: 1509433704606 }
+old nonce, new time, update
+16 17
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+{ recid: 1587,
+  goodid: 1587,
+  userid: 39,
+  invoiceid: 1588,
+  markid: 1588,
+  date: 1509433661191 }
+old nonce, new time, update
+17 18
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+{ recid: 1586,
+  goodid: 1586,
+  userid: 39,
+  invoiceid: 1587,
+  markid: 1587,
+  date: 1509433589100 }
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81690056332947537',
+     name: '碳纤维板加工 碳纤板加工 碳纤维模型配件加工雕刻 碳纤航模加工',
+     price: 500,
+     priceall: 500,
+     num: 1,
+     buyDate: 1509453054938 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=81690056332947537',
+     content: null },
+  userid: 39 }
+insert detail to data base
+insert rowid is 1590
+insert rowid is 1591
+insert rowid is 1591
+insert rowid is 1590
+Message  sent: 250 Mail OK queued as smtp4,DtGowACHOhxJbvhZj4B1AA--.533S2 1509453385
+old nonce, new time, update
+19 20
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+clearNoncedb
+old nonce, new time, update
+20 21
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81692016352947537',
+     name: '加厚不锈钢角码90度直角支架 桌椅角铁连接件五金配件家具连接件',
+     price: 0.35,
+     priceall: 17.32,
+     num: 50,
+     buyDate: 1509453400458 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=81692016352947537',
+     content: '店家不能开发票，但是这个尺寸只有这家了' },
+  userid: 39 }
+insert detail to data base
+insert rowid is 1591
+insert rowid is 1592
+insert rowid is 1592
+insert rowid is 1591
+Message  sent: 250 Mail OK queued as smtp9,DcCowAD3GVvfdPhZVNigOg--.45195S2 1509455072
+old nonce, new time, update
+21 22
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '4683', superuser: false }
+read data base
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+11/1/2017
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 39, name: '胡健力', code: '21525130' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '5441', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '82172219775947537',
+     name: '铝合金沙门沙窗塑钢纱窗小滑轮宽11.4mm双轮滚针轮子推拉移门窗配',
+     price: 0.85,
+     priceall: 25.5,
+     num: 30,
+     buyDate: 1509523768525 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=82172219775947537',
+     content: '无发票，很难找到一模一样的' },
+  userid: 39 }
+insert detail to data base
+insert rowid is 1592
+insert rowid is 1593
+insert rowid is 1593
+insert rowid is 1592
+Message <9c285898-fe52-dff0-5889-b04d2de58303@163.com> sent: 250 Mail OK queued as smtp5,D9GowADHHD6EgflZQ8tGAA--.670S2 1509523844
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '82153262515947537',
+     name: '316 304 不锈钢六角螺母/螺丝帽',
+     price: 1,
+     priceall: 88.26,
+     num: 88,
+     buyDate: 1509523857013 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.147bc20b9l9FnT&bizOrderId=82153262515947537',
+     content: null },
+  userid: 39 }
+insert detail to data base
+insert rowid is 1593
+insert rowid is 1594
+insert rowid is 1594
+insert rowid is 1593
+Message <874a4889-dfb5-ebbd-a11f-0eae5e780939@163.com> sent: 250 Mail OK queued as smtp5,D9GowADHXl+_gflZfOhGAA--.715S2 1509523904
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '5441', superuser: false }
+read data base
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '5441', superuser: false }
+read data base
+{ recid: 1591,
+  goodid: 1591,
+  userid: 39,
+  invoiceid: 1592,
+  markid: 1592,
+  date: 1509455071947 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '5441', superuser: false }
+read data base
+{ recid: 1590,
+  goodid: 1590,
+  userid: 39,
+  invoiceid: 1591,
+  markid: 1591,
+  date: 1509453384166 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '5441', superuser: false }
+read data base
+{ recid: 1588,
+  goodid: 1588,
+  userid: 39,
+  invoiceid: 1589,
+  markid: 1589,
+  date: 1509433704606 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '5441', superuser: false }
+read data base
+{ recid: 1587,
+  goodid: 1587,
+  userid: 39,
+  invoiceid: 1588,
+  markid: 1588,
+  date: 1509433661191 }
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '82300263103947537',
+     name: '3D打印',
+     price: 430,
+     priceall: 430,
+     num: 1,
+     buyDate: 1509539318084 },
+  invs: { code: null, price: 430, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=82300263103947537',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1594
+insert rowid is 1595
+insert rowid is 1595
+insert rowid is 1594
+Message  sent: 250 Mail OK queued as smtp13,EcCowADHd8EhvvlZgIFROQ--.30817S2 1509539361
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '6226', superuser: true }
+read data base
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '82486656357947537',
+     name: '气动接头',
+     price: 1.5,
+     priceall: 80,
+     num: 5,
+     buyDate: 1509591774786 },
+  invs: { code: null, price: 80, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=82486656357947537',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1595
+insert rowid is 1596
+insert rowid is 1596
+insert rowid is 1595
+Message <0f2b251b-4eb5-6b11-d67f-a00f3af827c4@163.com> sent: 250 Mail OK queued as smtp8,DMCowABHCvUIi_pZh7w1AA--.8857S2 1509591817
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '4381', superuser: true }
+read data base
+clearNoncedb
+11/2/2017
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '82707355407947537',
+     name: '密封圈',
+     price: 3.2,
+     priceall: 102,
+     num: 30,
+     buyDate: 1509603630590 },
+  invs: { code: null, price: 102, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.54bb549dX7Tx2U&bizOrderId=82707355407947537',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1596
+insert rowid is 1597
+insert rowid is 1597
+insert rowid is 1596
+Message  sent: 250 Mail OK queued as smtp2,DNGowAAX1cJpufpZ1RoDAA--.49S2 1509603690
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '2813', superuser: true }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '2813', superuser: true }
+read data base
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 29, name: '余徐波', code: '11725039' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1572,
+  goodid: 1572,
+  userid: 29,
+  invoiceid: 1573,
+  markid: 1573,
+  date: 1508989254284 }
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+14 15
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+15 16
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+16 17
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+17 18
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+18 19
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+19 20
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+20 21
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+old nonce, new time, update
+21 22
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+old nonce, new time, update
+22 23
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1572,
+  goodid: 1572,
+  userid: 29,
+  invoiceid: 1573,
+  markid: 1573,
+  date: 1508989254284 }
+old nonce, new time, update
+23 24
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+24 25
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+25 26
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+26 27
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+27 28
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 30, name: '王靖', code: '21625223' }
+old nonce, new time, update
+28 29
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+29 30
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+30 31
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+31 32
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1572,
+  goodid: 1572,
+  userid: 29,
+  invoiceid: 1573,
+  markid: 1573,
+  date: 1508989254284 }
+old nonce, new time, update
+32 33
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+old nonce, new time, update
+33 34
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1574,
+  goodid: 1574,
+  userid: 29,
+  invoiceid: 1575,
+  markid: 1575,
+  date: 1509021894977 }
+old nonce, new time, update
+34 35
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1575,
+  goodid: 1575,
+  userid: 29,
+  invoiceid: 1576,
+  markid: 1576,
+  date: 1509076396951 }
+old nonce, new time, update
+35 36
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+36 37
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+37 38
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+old nonce, new time, update
+38 39
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+39 40
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+40 41
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+41 42
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+42 43
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+43 44
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+44 45
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+45 46
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+46 47
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+47 48
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+48 49
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+49 50
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+50 51
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+51 52
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+52 53
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+53 54
+getPSWD read data base
+authorized successfully
+{ good: { price: 61.5, priceall: 61.5, num: 1 },
+  invs: { code: '01426802', price: 61.5, date: 1509638400000, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?biz_order_id=78726396337947537&amp;forward_action=',
+     content: null },
+  userid: 29,
+  recordid: '1571' }
+change detail to data base
+old nonce, new time, update
+54 55
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+55 56
+getPSWD read data base
+authorized successfully
+{ good: { price: 419, priceall: 419, num: 1 },
+  invs: { code: '发票已交，号码忘了', price: 419, date: 1508688000000, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=76349703845947537',
+     content: null },
+  userid: 29,
+  recordid: '1560' }
+change detail to data base
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '8165', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '8165', superuser: false }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '8165', superuser: false }
+read data base
+{ recid: 1579,
+  goodid: 1579,
+  userid: 30,
+  invoiceid: 1580,
+  markid: 1580,
+  date: 1509254966429 }
+old nonce, new time, update
+56 57
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+57 58
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+58 59
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1574,
+  goodid: 1574,
+  userid: 29,
+  invoiceid: 1575,
+  markid: 1575,
+  date: 1509021894977 }
+old nonce, new time, update
+59 60
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+60 61
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ good: { price: 61.9, priceall: 61.9, num: 1 },
+  invs: { code: '36549032', price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.4f8164fcQdSOZt&amp;bizOrderId=80505684497947537',
+     content: null },
+  userid: 30,
+  recordid: '1579' }
+change detail to data base
+old nonce, new time, update
+61 62
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '8165', superuser: false }
+read data base
+{ recid: 1568,
+  goodid: 1568,
+  userid: 30,
+  invoiceid: 1569,
+  markid: 1569,
+  date: 1508738940386 }
+old nonce, new time, update
+62 63
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+63 64
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+64 65
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+65 66
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1572,
+  goodid: 1572,
+  userid: 29,
+  invoiceid: 1573,
+  markid: 1573,
+  date: 1508989254284 }
+old nonce, new time, update
+66 67
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+old nonce, new time, update
+67 68
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1575,
+  goodid: 1575,
+  userid: 29,
+  invoiceid: 1576,
+  markid: 1576,
+  date: 1509076396951 }
+old nonce, new time, update
+68 69
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1574,
+  goodid: 1574,
+  userid: 29,
+  invoiceid: 1575,
+  markid: 1575,
+  date: 1509021894977 }
+old nonce, new time, update
+69 70
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1572,
+  goodid: 1572,
+  userid: 29,
+  invoiceid: 1573,
+  markid: 1573,
+  date: 1508989254284 }
+old nonce, new time, update
+70 71
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1571,
+  goodid: 1571,
+  userid: 29,
+  invoiceid: 1572,
+  markid: 1572,
+  date: 1508926398845 }
+old nonce, new time, update
+71 72
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1574,
+  goodid: 1574,
+  userid: 29,
+  invoiceid: 1575,
+  markid: 1575,
+  date: 1509021894977 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ good: { price: 800, priceall: 800, num: 1 },
+  invs: { code: '60543462', price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=77777002219947537',
+     content: null },
+  userid: 30,
+  recordid: '1568' }
+change detail to data base
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '8165', superuser: false }
+read data base
+{ recid: 1567,
+  goodid: 1567,
+  userid: 30,
+  invoiceid: 1568,
+  markid: 1568,
+  date: 1508738901952 }
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 31, name: '吴致远', code: '21625068' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ good: { price: 800, priceall: 800, num: 1 },
+  invs: { code: '60543475', price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=77733547687947537',
+     content: null },
+  userid: 30,
+  recordid: '1567' }
+change detail to data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 30, name: '王靖', code: '21625223' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '7829', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '7829', superuser: false }
+read data base
+{ recid: 1567,
+  goodid: 1567,
+  userid: 30,
+  invoiceid: 1568,
+  markid: 1568,
+  date: 1508738901952 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '7829', superuser: false }
+read data base
+{ recid: 1568,
+  goodid: 1568,
+  userid: 30,
+  invoiceid: 1569,
+  markid: 1569,
+  date: 1508738940386 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '7829', superuser: false }
+read data base
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '7829', superuser: false }
+read data base
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '7829', superuser: false }
+read data base
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '7829', superuser: false }
+read data base
+old nonce, new time, update
+72 73
+getPSWD read data base
+authorized successfully
+{ good: { price: 166, priceall: 166, num: 1 },
+  invs: { code: '47191483', price: 166, date: 1509638400000, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=79366701731947537',
+     content: null },
+  userid: 29,
+  recordid: '1574' }
+change detail to data base
+old nonce, new time, update
+73 74
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1575,
+  goodid: 1575,
+  userid: 29,
+  invoiceid: 1576,
+  markid: 1576,
+  date: 1509076396951 }
+old nonce, new time, update
+74 75
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1572,
+  goodid: 1572,
+  userid: 29,
+  invoiceid: 1573,
+  markid: 1573,
+  date: 1508989254284 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '7829', superuser: false }
+read data base
+old nonce, new time, update
+75 76
+getPSWD read data base
+authorized successfully
+{ good: { price: 288.39, priceall: 288.39, num: 1 },
+  invs: 
+   { code: '00990398',
+     price: 288.39,
+     date: 1509638400000,
+     type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?biz_order_id=79125959196947537&amp;forward_action=',
+     content: null },
+  userid: 29,
+  recordid: '1572' }
+change detail to data base
+old nonce, new time, update
+76 77
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1575,
+  goodid: 1575,
+  userid: 29,
+  invoiceid: 1576,
+  markid: 1576,
+  date: 1509076396951 }
+old nonce, new time, update
+77 78
+getPSWD read data base
+authorized successfully
+{ good: { price: 40, priceall: 40, num: 1 },
+  invs: { code: '64967818', price: 40, date: 1509638400000, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.14b9bc79DSJI0H&amp;bizOrderId=79598793321947537',
+     content: null },
+  userid: 29,
+  recordid: '1575' }
+change detail to data base
+old nonce, new time, update
+78 79
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+old nonce, new time, update
+79 80
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+80 81
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+81 82
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+82 83
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+83 84
+getPSWD read data base
+authorized successfully
+{ good: { price: 101, priceall: 101, num: 1 },
+  invs: { code: '12570742', price: 288, date: 1509638400000, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=76428212698947537',
+     content: null },
+  userid: 29,
+  recordid: '1563' }
+change detail to data base
+old nonce, new time, update
+84 85
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+85 86
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+86 87
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+87 88
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+88 89
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+89 90
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+90 91
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+91 92
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+92 93
+getPSWD read data base
+authorized successfully
+{ good: { price: 419, priceall: 419, num: 1 },
+  invs: { code: '发票已交，号码忘了', price: 419, date: 1508688000000, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=76349703845947537',
+     content: '发票已交，号码忘了' },
+  userid: 29,
+  recordid: '1560' }
+change detail to data base
+old nonce, new time, update
+93 94
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+94 95
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+95 96
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+96 97
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+97 98
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+98 99
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+99 100
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+100 101
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+101 102
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+102 103
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+103 104
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+104 105
+getPSWD read data base
+authorized successfully
+{ good: { price: 187, priceall: 187, num: 1 },
+  invs: 
+   { code: '12570742  订单连一起',
+     price: 288,
+     date: 1509638400000,
+     type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=78264063964947537',
+     content: null },
+  userid: 29,
+  recordid: '1570' }
+change detail to data base
+old nonce, new time, update
+105 106
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+old nonce, new time, update
+106 107
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+107 108
+getPSWD read data base
+authorized successfully
+{ good: { price: 400, priceall: 901, num: 2 },
+  invs: { code: '08081976', price: 901, date: 1509638400000, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.276bf24aMI4qX2&amp;amp;bizOrderId=75949328359947537',
+     content: null },
+  userid: 29,
+  recordid: '1559' }
+change detail to data base
+old nonce, new time, update
+108 109
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3035', superuser: false }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1485,
+  goodid: 1485,
+  userid: 31,
+  invoiceid: 1486,
+  markid: 1486,
+  date: 1505486438138 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1486,
+  goodid: 1486,
+  userid: 31,
+  invoiceid: 1487,
+  markid: 1487,
+  date: 1505531168339 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1509,
+  goodid: 1509,
+  userid: 31,
+  invoiceid: 1510,
+  markid: 1510,
+  date: 1506133844420 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1485,
+  goodid: 1485,
+  userid: 31,
+  invoiceid: 1486,
+  markid: 1486,
+  date: 1505486438138 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ good: { price: 40, priceall: 40, num: 1 },
+  invs: { code: '统一上交', price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=58680720984947537',
+     content: null },
+  userid: 31,
+  recordid: '1485' }
+change detail to data base
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1486,
+  goodid: 1486,
+  userid: 31,
+  invoiceid: 1487,
+  markid: 1487,
+  date: 1505531168339 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ good: { price: 13, priceall: 18, num: 1 },
+  invs: { code: '统一上交', price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=58772896572947537',
+     content: null },
+  userid: 31,
+  recordid: '1486' }
+change detail to data base
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1509,
+  goodid: 1509,
+  userid: 31,
+  invoiceid: 1510,
+  markid: 1510,
+  date: 1506133844420 }
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1550,
+  goodid: 1550,
+  userid: 31,
+  invoiceid: 1551,
+  markid: 1551,
+  date: 1507786269882 }
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1550,
+  goodid: 1550,
+  userid: 31,
+  invoiceid: 1551,
+  markid: 1551,
+  date: 1507786269882 }
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1550,
+  goodid: 1550,
+  userid: 31,
+  invoiceid: 1551,
+  markid: 1551,
+  date: 1507786269882 }
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1550,
+  goodid: 1550,
+  userid: 31,
+  invoiceid: 1551,
+  markid: 1551,
+  date: 1507786269882 }
+old nonce, new time, update
+14 15
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1564,
+  goodid: 1564,
+  userid: 31,
+  invoiceid: 1565,
+  markid: 1565,
+  date: 1508575676945 }
+old nonce, new time, update
+15 16
+getPSWD read data base
+authorized successfully
+{ userid: 31, nonce: '2515', superuser: false }
+read data base
+{ recid: 1550,
+  goodid: 1550,
+  userid: 31,
+  invoiceid: 1551,
+  markid: 1551,
+  date: 1507786269882 }
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 39, name: '胡健力', code: '21525130' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1588,
+  goodid: 1588,
+  userid: 39,
+  invoiceid: 1589,
+  markid: 1589,
+  date: 1509433704606 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1590,
+  goodid: 1590,
+  userid: 39,
+  invoiceid: 1591,
+  markid: 1591,
+  date: 1509453384166 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1588,
+  goodid: 1588,
+  userid: 39,
+  invoiceid: 1589,
+  markid: 1589,
+  date: 1509433704606 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1587,
+  goodid: 1587,
+  userid: 39,
+  invoiceid: 1588,
+  markid: 1588,
+  date: 1509433661191 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1562,
+  goodid: 1562,
+  userid: 39,
+  invoiceid: 1563,
+  markid: 1563,
+  date: 1508507484257 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1587,
+  goodid: 1587,
+  userid: 39,
+  invoiceid: 1588,
+  markid: 1588,
+  date: 1509433661191 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1587,
+  goodid: 1587,
+  userid: 39,
+  invoiceid: 1588,
+  markid: 1588,
+  date: 1509433661191 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1587,
+  goodid: 1587,
+  userid: 39,
+  invoiceid: 1588,
+  markid: 1588,
+  date: 1509433661191 }
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1587,
+  goodid: 1587,
+  userid: 39,
+  invoiceid: 1588,
+  markid: 1588,
+  date: 1509433661191 }
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1587,
+  goodid: 1587,
+  userid: 39,
+  invoiceid: 1588,
+  markid: 1588,
+  date: 1509433661191 }
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ good: { price: 600, priceall: 600, num: 1 },
+  invs: 
+   { code: '19737579',
+     price: 600,
+     date: 1509552000000,
+     type: '上海增值税普通发票' },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=80047969243947537',
+     content: null },
+  userid: 39,
+  recordid: '1587' }
+change detail to data base
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1588,
+  goodid: 1588,
+  userid: 39,
+  invoiceid: 1589,
+  markid: 1589,
+  date: 1509433704606 }
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1592,
+  goodid: 1592,
+  userid: 39,
+  invoiceid: 1593,
+  markid: 1593,
+  date: 1509523844019 }
+old nonce, new time, update
+14 15
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1592,
+  goodid: 1592,
+  userid: 39,
+  invoiceid: 1593,
+  markid: 1593,
+  date: 1509523844019 }
+old nonce, new time, update
+15 16
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1588,
+  goodid: 1588,
+  userid: 39,
+  invoiceid: 1589,
+  markid: 1589,
+  date: 1509433704606 }
+old nonce, new time, update
+16 17
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1588,
+  goodid: 1588,
+  userid: 39,
+  invoiceid: 1589,
+  markid: 1589,
+  date: 1509433704606 }
+old nonce, new time, update
+17 18
+getPSWD read data base
+authorized successfully
+{ good: { price: 630, priceall: 630, num: 1 },
+  invs: 
+   { code: '19737580',
+     price: 630,
+     date: 1509552000000,
+     type: '上海增值税普通发票' },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=79905058004947537',
+     content: null },
+  userid: 39,
+  recordid: '1588' }
+change detail to data base
+old nonce, new time, update
+18 19
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1576,
+  goodid: 1576,
+  userid: 39,
+  invoiceid: 1577,
+  markid: 1577,
+  date: 1509088955714 }
+old nonce, new time, update
+19 20
+getPSWD read data base
+authorized successfully
+{ good: { price: 2.7, priceall: 140, num: 40 },
+  invs: 
+   { code: '23437789',
+     price: 140,
+     date: 1509552000000,
+     type: '山东增值税普通发票' },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=79635360782947537',
+     content: null },
+  userid: 39,
+  recordid: '1576' }
+change detail to data base
+old nonce, new time, update
+20 21
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1561,
+  goodid: 1561,
+  userid: 39,
+  invoiceid: 1562,
+  markid: 1562,
+  date: 1508500862798 }
+old nonce, new time, update
+21 22
+getPSWD read data base
+authorized successfully
+{ good: { price: 31.25, priceall: 195.5, num: 6 },
+  invs: 
+   { code: '01362218',
+     price: 195.5,
+     date: 1509552000000,
+     type: '浙江省国家税务局通用机打发票' },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.30daa990CwuKG7&amp;bizOrderId=76430566956947537',
+     content: null },
+  userid: 39,
+  recordid: '1561' }
+change detail to data base
+old nonce, new time, update
+22 23
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1590,
+  goodid: 1590,
+  userid: 39,
+  invoiceid: 1591,
+  markid: 1591,
+  date: 1509453384166 }
+old nonce, new time, update
+23 24
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1587,
+  goodid: 1587,
+  userid: 39,
+  invoiceid: 1588,
+  markid: 1588,
+  date: 1509433661191 }
+old nonce, new time, update
+24 25
+getPSWD read data base
+authorized successfully
+{ userid: 39, nonce: '6189', superuser: false }
+read data base
+{ recid: 1562,
+  goodid: 1562,
+  userid: 39,
+  invoiceid: 1563,
+  markid: 1563,
+  date: 1508507484257 }
+old nonce, new time, update
+25 26
+getPSWD read data base
+authorized successfully
+{ good: { price: 1230, priceall: 1230, num: 1 },
+  invs: 
+   { code: '19737573,19737571',
+     price: 1230,
+     date: 1509552000000,
+     type: '上海增值税普通发票' },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=76482591362947537',
+     content: null },
+  userid: 39,
+  recordid: '1562' }
+change detail to data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 32, name: '韩婷', code: '21725079' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 32, nonce: '6987', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 32, nonce: '6987', superuser: false }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '77962783963947537',
+     name: 'OMEGA热电偶',
+     price: 12.5,
+     priceall: 37.5,
+     num: 3,
+     buyDate: 1508764577000 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=77962783963947537',
+     content: null },
+  userid: 32 }
+insert detail to data base
+insert rowid is 1597
+insert rowid is 1598
+insert rowid is 1598
+insert rowid is 1597
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 32, nonce: '6987', superuser: false }
+read data base
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '77922264811947537',
+     name: '热电偶放大器',
+     price: 30.65,
+     priceall: 65.29,
+     num: 2,
+     buyDate: 1509628984339 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.5bb49420iH4ZSu&bizOrderId=77922264811947537',
+     content: null },
+  userid: 32 }
+insert detail to data base
+insert rowid is 1598
+insert rowid is 1599
+insert rowid is 1599
+insert rowid is 1598
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 32, nonce: '6987', superuser: false }
+read data base
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 32, nonce: '6987', superuser: false }
+read data base
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 32, nonce: '6987', superuser: false }
+read data base
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 32, nonce: '6987', superuser: false }
+read data base
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 32, nonce: '6987', superuser: false }
+read data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 37, name: '陈宁宁', code: '21625073' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '4010', superuser: true }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '4010', superuser: true }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '4010', superuser: true }
+read data base
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '4010', superuser: true }
+read data base
+{ recid: 1523,
+  goodid: 1523,
+  userid: 37,
+  invoiceid: 1524,
+  markid: 1524,
+  date: 1506571502768 }
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 40, name: '钟志航', code: '3140101984' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1539,
+  goodid: 1539,
+  userid: 40,
+  invoiceid: 1540,
+  markid: 1540,
+  date: 1507193390314 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1540,
+  goodid: 1540,
+  userid: 40,
+  invoiceid: 1541,
+  markid: 1541,
+  date: 1507196806736 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1541,
+  goodid: 1541,
+  userid: 40,
+  invoiceid: 1542,
+  markid: 1542,
+  date: 1507272053439 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ good: { price: 337, priceall: 337, num: 1 },
+  invs: 
+   { code: '01643258',
+     price: 337,
+     date: 1509552000000,
+     type: '普通发票' },
+  mark: 
+   { link: 'https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z02.1.a2109.d1000368.1daf092amnmENp&amp;amp;nekot=1470211439694',
+     content: null },
+  userid: 40,
+  recordid: '1541' }
+change detail to data base
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1539,
+  goodid: 1539,
+  userid: 40,
+  invoiceid: 1540,
+  markid: 1540,
+  date: 1507193390314 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1539,
+  goodid: 1539,
+  userid: 40,
+  invoiceid: 1540,
+  markid: 1540,
+  date: 1507193390314 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1540,
+  goodid: 1540,
+  userid: 40,
+  invoiceid: 1541,
+  markid: 1541,
+  date: 1507196806736 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1539,
+  goodid: 1539,
+  userid: 40,
+  invoiceid: 1540,
+  markid: 1540,
+  date: 1507193390314 }
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1539,
+  goodid: 1539,
+  userid: 40,
+  invoiceid: 1540,
+  markid: 1540,
+  date: 1507193390314 }
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1539,
+  goodid: 1539,
+  userid: 40,
+  invoiceid: 1540,
+  markid: 1540,
+  date: 1507193390314 }
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1539,
+  goodid: 1539,
+  userid: 40,
+  invoiceid: 1540,
+  markid: 1540,
+  date: 1507193390314 }
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1539,
+  goodid: 1539,
+  userid: 40,
+  invoiceid: 1540,
+  markid: 1540,
+  date: 1507193390314 }
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1539,
+  goodid: 1539,
+  userid: 40,
+  invoiceid: 1540,
+  markid: 1540,
+  date: 1507193390314 }
+old nonce, new time, update
+14 15
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1540,
+  goodid: 1540,
+  userid: 40,
+  invoiceid: 1541,
+  markid: 1541,
+  date: 1507196806736 }
+old nonce, new time, update
+15 16
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1539,
+  goodid: 1539,
+  userid: 40,
+  invoiceid: 1540,
+  markid: 1540,
+  date: 1507193390314 }
+old nonce, new time, update
+16 17
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1540,
+  goodid: 1540,
+  userid: 40,
+  invoiceid: 1541,
+  markid: 1541,
+  date: 1507196806736 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '82883724524947537',
+     name: '亚克力',
+     price: 700,
+     priceall: 700,
+     num: 1,
+     buyDate: 1509630122409 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://item.taobao.com/item.htm?spm=a1z09.2.0.0.6f65e4f65YQHFr&id=9120017758&_u=220u02ov9d2b',
+     content: null },
+  userid: 37 }
+insert detail to data base
+insert rowid is 1599
+insert rowid is 1600
+insert rowid is 1600
+insert rowid is 1599
+Message <5760ecef-107e-8153-939a-e08c70613fe3@163.com> sent: 250 Mail OK queued as smtp12,EMCowABX8bMNIftZyoT3Fg--.1144S2 1509630222
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '4010', superuser: true }
+read data base
+old nonce, new time, update
+17 18
+getPSWD read data base
+authorized successfully
+{ good: { price: 203.9, priceall: 203.9, num: 1 },
+  invs: 
+   { code: '01631451',
+     price: 203.9,
+     date: 1509552000000,
+     type: '普通发票' },
+  mark: 
+   { link: 'https://world.taobao.com/trade/itemlist/list_bought_items.htm',
+     content: null },
+  userid: 40,
+  recordid: '1540' }
+change detail to data base
+old nonce, new time, update
+18 19
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1541,
+  goodid: 1541,
+  userid: 40,
+  invoiceid: 1542,
+  markid: 1542,
+  date: 1507272053439 }
+old nonce, new time, update
+19 20
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1541,
+  goodid: 1541,
+  userid: 40,
+  invoiceid: 1542,
+  markid: 1542,
+  date: 1507272053439 }
+old nonce, new time, update
+20 21
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1541,
+  goodid: 1541,
+  userid: 40,
+  invoiceid: 1542,
+  markid: 1542,
+  date: 1507272053439 }
+old nonce, new time, update
+21 22
+getPSWD read data base
+authorized successfully
+{ userid: 40, nonce: '8884', superuser: false }
+read data base
+{ recid: 1541,
+  goodid: 1541,
+  userid: 40,
+  invoiceid: 1542,
+  markid: 1542,
+  date: 1507272053439 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '82956387083947537',
+     name: '亚克力',
+     price: 372,
+     priceall: 372,
+     num: 1,
+     buyDate: 1509630204736 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=82956387083947537',
+     content: null },
+  userid: 37 }
+insert detail to data base
+insert rowid is 1600
+insert rowid is 1601
+insert rowid is 1601
+insert rowid is 1600
+Message <960e4efc-21e8-146a-5598-2fb774de9eb6@163.com> sent: 250 Mail OK queued as smtp9,DcCowAC30FFtIftZ6uVwOw--.49048S2 1509630317
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '4010', superuser: true }
+read data base
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '4010', superuser: true }
+read data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '6881', superuser: true }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '6881', superuser: true }
+read data base
+{ recid: 1582,
+  goodid: 1582,
+  userid: 27,
+  invoiceid: 1583,
+  markid: 1583,
+  date: 1509361059816 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ good: { price: 106, priceall: 106, num: 1 },
+  invs: { code: '59762623', price: 106, date: 1509630975617, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=81221367720947537',
+     content: null },
+  userid: 27,
+  recordid: '1582' }
+change detail to data base
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '6881', superuser: true }
+read data base
+{ recid: 1578,
+  goodid: 1578,
+  userid: 27,
+  invoiceid: 1579,
+  markid: 1579,
+  date: 1509092672056 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ good: { price: 450, priceall: 450, num: 1 },
+  invs: { code: '86256794', price: 450, date: 1509631076971, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=79763182076947537',
+     content: null },
+  userid: 27,
+  recordid: '1578' }
+change detail to data base
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '6881', superuser: true }
+read data base
+{ recid: 1580,
+  goodid: 1580,
+  userid: 27,
+  invoiceid: 1581,
+  markid: 1581,
+  date: 1509264762857 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '6881', superuser: true }
+read data base
+{ recid: 1580,
+  goodid: 1580,
+  userid: 27,
+  invoiceid: 1581,
+  markid: 1581,
+  date: 1509264762857 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ good: { price: 107.8, priceall: 107.8, num: 1 },
+  invs: 
+   { code: '63899853',
+     price: 107.8,
+     date: 1509631119512,
+     type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?biz_order_id=80581424367947537&amp;forward_action=',
+     content: null },
+  userid: 27,
+  recordid: '1580' }
+change detail to data base
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '6881', superuser: true }
+read data base
+{ recid: 1577,
+  goodid: 1577,
+  userid: 27,
+  invoiceid: 1578,
+  markid: 1578,
+  date: 1509092636242 }
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '6881', superuser: true }
+read data base
+{ recid: 1569,
+  goodid: 1569,
+  userid: 27,
+  invoiceid: 1570,
+  markid: 1570,
+  date: 1508740789782 }
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '6881', superuser: true }
+read data base
+{ recid: 1569,
+  goodid: 1569,
+  userid: 27,
+  invoiceid: 1570,
+  markid: 1570,
+  date: 1508740789782 }
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ good: { price: 500, priceall: 500, num: 1 },
+  invs: { code: null, price: 500, date: 1509631513218, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=77787782917947537',
+     content: null },
+  userid: 27,
+  recordid: '1569' }
+change detail to data base
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ good: { price: 500, priceall: 500, num: 1 },
+  invs: { code: '60543504', price: 500, date: 1509631513218, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=77787782917947537',
+     content: null },
+  userid: 27,
+  recordid: '1569' }
+change detail to data base
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 33, name: '艾志强', code: '3140104893' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '81137812126947537',
+     name: '活动铰链',
+     price: 13.9,
+     priceall: 208.1,
+     num: 15,
+     buyDate: 1509639247597 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=81137812126947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+insert rowid is 1601
+insert rowid is 1602
+insert rowid is 1602
+insert rowid is 1601
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+{ recid: 1601,
+  goodid: 1601,
+  userid: 33,
+  invoiceid: 1602,
+  markid: 1602,
+  date: 1509639297349 }
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+{ recid: 1589,
+  goodid: 1589,
+  userid: 33,
+  invoiceid: 1590,
+  markid: 1590,
+  date: 1509435297542 }
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+{ recid: 1601,
+  goodid: 1601,
+  userid: 33,
+  invoiceid: 1602,
+  markid: 1602,
+  date: 1509639297349 }
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+{ recid: 1581,
+  goodid: 1581,
+  userid: 33,
+  invoiceid: 1582,
+  markid: 1582,
+  date: 1509355909821 }
+old nonce, new time, update
+14 15
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '3748', superuser: false }
+read data base
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 26, name: '赵江宏', code: '11425038' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 26, nonce: '9685', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 26, nonce: '9685', superuser: false }
+read data base
+{ recid: 1558,
+  goodid: 1558,
+  userid: 26,
+  invoiceid: 1559,
+  markid: 1559,
+  date: 1508134394679 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 26, nonce: '9685', superuser: false }
+read data base
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 26, nonce: '9685', superuser: false }
+read data base
+{ recid: 1558,
+  goodid: 1558,
+  userid: 26,
+  invoiceid: 1559,
+  markid: 1559,
+  date: 1508134394679 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 26, nonce: '9685', superuser: false }
+read data base
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 26, nonce: '9685', superuser: false }
+read data base
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 26, nonce: '9685', superuser: false }
+read data base
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 26, nonce: '9685', superuser: false }
+read data base
+{ recid: 1558,
+  goodid: 1558,
+  userid: 26,
+  invoiceid: 1559,
+  markid: 1559,
+  date: 1508134394679 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ good: { price: 684, priceall: 801, num: 1 },
+  invs: 
+   { code: '25800294',
+     price: 801,
+     date: 1509642000000,
+     type: '增值税普通发票' },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.1822c25076t5dv&amp;bizOrderId=74192945057947537',
+     content: null },
+  userid: 26,
+  recordid: '1558' }
+change detail to data base
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 26, nonce: '9685', superuser: false }
+read data base
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 26, nonce: '9685', superuser: false }
+read data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 37, name: '陈宁宁', code: '21625073' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83085296611947537',
+     name: '铝合金',
+     price: 690,
+     priceall: 690,
+     num: 1,
+     buyDate: 1509672685224 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83085296611947537',
+     content: null },
+  userid: 37 }
+insert detail to data base
+insert rowid is 1602
+insert rowid is 1603
+insert rowid is 1603
+insert rowid is 1602
+Message  sent: 250 Mail OK queued as smtp11,D8CowABHhBE4x_tZfzlZAA--.10534S2 1509672760
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 29, name: '余徐波', code: '11725039' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83113688113947537',
+     name: '直线导轨',
+     price: 242,
+     priceall: 242,
+     num: 1,
+     buyDate: 1509681595313 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83113688113947537',
+     content: null },
+  userid: 29 }
+insert detail to data base
+insert rowid is 1603
+insert rowid is 1604
+insert rowid is 1604
+insert rowid is 1603
+Message <49d412eb-68aa-86cc-7906-8ff2c8777e48@163.com> sent: 250 Mail OK queued as smtp8,DMCowAAXu_RV6vtZ3aKkAA--.22828S2 1509681749
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+{ recid: 1560,
+  goodid: 1560,
+  userid: 29,
+  invoiceid: 1561,
+  markid: 1561,
+  date: 1508490015835 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+{ recid: 1563,
+  goodid: 1563,
+  userid: 29,
+  invoiceid: 1564,
+  markid: 1564,
+  date: 1508507572348 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+{ recid: 1570,
+  goodid: 1570,
+  userid: 29,
+  invoiceid: 1571,
+  markid: 1571,
+  date: 1508830503847 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+{ recid: 1559,
+  goodid: 1559,
+  userid: 29,
+  invoiceid: 1560,
+  markid: 1560,
+  date: 1508423971439 }
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+{ recid: 1532,
+  goodid: 1532,
+  userid: 29,
+  invoiceid: 1533,
+  markid: 1533,
+  date: 1506687094691 }
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ good: { price: 529, priceall: 529, num: 1 },
+  invs: { code: '发票已交，号码忘了', price: 529, date: 1508688000000, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=66611954407947537',
+     content: null },
+  userid: 29,
+  recordid: '1532' }
+change detail to data base
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83098148417947537',
+     name: '开关电源',
+     price: 90,
+     priceall: 180,
+     num: 2,
+     buyDate: 1509681848011 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83098148417947537',
+     content: null },
+  userid: 29 }
+insert detail to data base
+insert rowid is 1604
+insert rowid is 1605
+insert rowid is 1605
+insert rowid is 1604
+Message  sent: 250 Mail OK queued as smtp3,DdGowAAn8GnV6vtZmdkJAA--.724S2 1509681877
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+old nonce, new time, update
+14 15
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+{ recid: 1604,
+  goodid: 1604,
+  userid: 29,
+  invoiceid: 1605,
+  markid: 1605,
+  date: 1509681877074 }
+old nonce, new time, update
+15 16
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+{ recid: 1603,
+  goodid: 1603,
+  userid: 29,
+  invoiceid: 1604,
+  markid: 1604,
+  date: 1509681749386 }
+old nonce, new time, update
+16 17
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+{ recid: 1574,
+  goodid: 1574,
+  userid: 29,
+  invoiceid: 1575,
+  markid: 1575,
+  date: 1509021894977 }
+old nonce, new time, update
+17 18
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6452', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+11/3/2017
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 34, name: '王鑫哲', code: '666' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 34, nonce: '8588', superuser: true }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 34, nonce: '8588', superuser: true }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 34, nonce: '8588', superuser: true }
+read data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 29, name: '余徐波', code: '11725039' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83412871455947537',
+     name: '铝型材',
+     price: 254,
+     priceall: 254,
+     num: 1,
+     buyDate: 1509707242210 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83412871455947537',
+     content: null },
+  userid: 29 }
+insert detail to data base
+insert rowid is 1605
+insert rowid is 1606
+insert rowid is 1606
+insert rowid is 1605
+Message  sent: 250 Mail OK queued as smtp2,DNGowABXXTUOTvxZ9scYAA--.136S2 1509707279
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3970', superuser: false }
+read data base
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 37, name: '陈宁宁', code: '21625073' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83492978264947537',
+     name: '铝型材',
+     price: 746,
+     priceall: 746,
+     num: 1,
+     buyDate: 1509718232628 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83492978264947537',
+     content: null },
+  userid: 37 }
+insert detail to data base
+insert rowid is 1606
+insert rowid is 1607
+insert rowid is 1607
+insert rowid is 1606
+Message <712516a4-49cb-5dcc-3ce3-080ea5931d72@163.com> sent: 250 Mail OK queued as smtp9,DcCowAAnSltsefxZ5U8HPA--.50281S2 1509718380
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '5744', superuser: true }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83488218814947537',
+     name: '铝型材',
+     price: 746,
+     priceall: 746,
+     num: 1,
+     buyDate: 1509718360929 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83488218814947537',
+     content: null },
+  userid: 37 }
+insert detail to data base
+insert rowid is 1607
+insert rowid is 1608
+insert rowid is 1608
+insert rowid is 1607
+Message  sent: 250 Mail OK queued as smtp14,EsCowAA3fn6oefxZMQ7+Bw--.52376S2 1509718440
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '5744', superuser: true }
+read data base
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '5744', superuser: true }
+read data base
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83495890018947537',
+     name: '铝型材',
+     price: 746,
+     priceall: 746,
+     num: 1,
+     buyDate: 1509718450520 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83495890018947537',
+     content: null },
+  userid: 37 }
+insert detail to data base
+insert rowid is 1608
+insert rowid is 1609
+insert rowid is 1609
+insert rowid is 1608
+Message  sent: 250 Mail OK queued as smtp11,D8CowAD3MxEyevxZmZjIAA--.18425S2 1509718578
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '5744', superuser: true }
+read data base
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83406988523947537',
+     name: '铝型材',
+     price: 746,
+     priceall: 746,
+     num: 1,
+     buyDate: 1509718559773 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83406988523947537',
+     content: null },
+  userid: 37 }
+insert detail to data base
+insert rowid is 1609
+insert rowid is 1610
+insert rowid is 1610
+insert rowid is 1609
+Message <4e610a04-2818-ebd4-cfb5-fa5200596c6c@163.com> sent: 250 Mail OK queued as smtp10,DsCowAA3Jc6ievxZFR0eBw--.4325S2 1509718690
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '5744', superuser: true }
+read data base
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83490990536947537',
+     name: '铝型材',
+     price: 746,
+     priceall: 746,
+     num: 1,
+     buyDate: 1509718699490 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83490990536947537',
+     content: null },
+  userid: 37 }
+insert detail to data base
+insert rowid is 1610
+insert rowid is 1611
+insert rowid is 1611
+insert rowid is 1610
+Message <12892cee-2219-f9cd-70d5-414467f6351f@163.com> sent: 250 Mail OK queued as smtp7,C8CowAAH9ADre_xZK1+fOQ--.14768S2 1509719019
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '5744', superuser: true }
+read data base
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83482507401947537',
+     name: '铝型材',
+     price: 746,
+     priceall: 746,
+     num: 1,
+     buyDate: 1509719032050 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83482507401947537',
+     content: null },
+  userid: 37 }
+insert detail to data base
+insert rowid is 1611
+insert rowid is 1612
+insert rowid is 1612
+insert rowid is 1611
+Message <9411824b-d2d9-941a-97c0-503c0236e407@163.com> sent: 250 Mail OK queued as smtp11,D8CowAAX7gI_fPxZrTHKAA--.6894S2 1509719103
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ userid: 37, nonce: '5744', superuser: true }
+read data base
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83453889191947537',
+     name: '铝型材',
+     price: 746,
+     priceall: 746,
+     num: 1,
+     buyDate: 1509719084113 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83453889191947537',
+     content: null },
+  userid: 37 }
+insert detail to data base
+insert rowid is 1612
+insert rowid is 1613
+insert rowid is 1613
+insert rowid is 1612
+Message <8e45c6da-00d7-b43a-e1cd-d4a5a0d47415@163.com> sent: 250 Mail OK queued as smtp13,EcCowAAX0MltfPxZwoNdOg--.33946S2 1509719150
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 29, name: '余徐波', code: '11725039' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6520', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83468394468947537',
+     name: '亚克力板',
+     price: 140,
+     priceall: 140,
+     num: 1,
+     buyDate: 1509722728100 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83468394468947537',
+     content: null },
+  userid: 29 }
+insert detail to data base
+insert rowid is 1613
+insert rowid is 1614
+insert rowid is 1614
+insert rowid is 1613
+Message <17db4d00-0c58-6f1d-ece6-a458cdd6e0f7@163.com> sent: 250 Mail OK queued as smtp2,DNGowAD3Vapai_xZW243AA--.248S2 1509722970
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '6520', superuser: false }
+read data base
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+11/4/2017
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 29, name: '余徐波', code: '11725039' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '7058', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '7058', superuser: false }
+read data base
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 33, name: '艾志强', code: '3140104893' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '8659', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83813633632947537',
+     name: '大扭矩金属舵机',
+     price: 336,
+     priceall: 336,
+     num: 1,
+     buyDate: 1509781983012 },
+  invs: { code: null, price: 336, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83813633632947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+insert rowid is 1614
+insert rowid is 1615
+insert rowid is 1615
+insert rowid is 1614
+Message <2e0a8b3b-d516-fce1-fdf5-591a13fd982e@163.com> sent: 250 Mail OK queued as smtp12,EMCowABH3rAtcv1ZN0QiGA--.4249S2 1509782061
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 33, name: '艾志强', code: '3140104893' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '5865', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83823684401947537',
+     name: '铝型材',
+     price: 82,
+     priceall: 82,
+     num: 1,
+     buyDate: 1509790799662 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.49389b1csEh8B3&bizOrderId=83823684401947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+insert rowid is 1615
+insert rowid is 1616
+insert rowid is 1616
+insert rowid is 1615
+Message <25d014b8-565b-06b6-0cbc-109cecdca110@163.com> sent: 250 Mail OK queued as smtp10,DsCowACnKMBhlP1ZVFmzBw--.5503S2 1509790818
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '5865', superuser: false }
+read data base
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 33, name: '艾志强', code: '3140104893' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '83903710721947537',
+     name: '线切割加工',
+     price: 401,
+     priceall: 401,
+     num: 1,
+     buyDate: 1509791965410 },
+  invs: { code: null, price: 401, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83903710721947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+insert rowid is 1616
+insert rowid is 1617
+insert rowid is 1617
+insert rowid is 1616
+Message <130cb368-a9b6-6d5b-484d-c92704f4e72a@163.com> sent: 250 Mail OK queued as smtp9,DcCowADH2EkRmf1Zfy+oPA--.51522S2 1509792017
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+new nonce, write into nonce database
+getPSWD read data base
+new nonce, write into nonce database
+getPSWD read data base
+new nonce, write into nonce database
+getPSWD read data base
+new nonce, write into nonce database
+getPSWD read data base
+new nonce, write into nonce database
+getPSWD read data base
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 33, name: '艾志强', code: '3140104893' }
+clearNoncedb
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '84149970016947537',
+     name: '机械零件加工',
+     price: 399,
+     priceall: 399,
+     num: 1,
+     buyDate: 1509852923829 },
+  invs: { code: null, price: 399, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=84149970016947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+insert rowid is 1617
+insert rowid is 1618
+insert rowid is 1618
+insert rowid is 1617
+Message <3a222836-e79a-8450-6940-f6d003f4ae59@163.com> sent: 250 Mail OK queued as smtp7,C8CowABXXzujh_5Z26bDOg--.7442S2 1509853092
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '2971', superuser: false }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '2971', superuser: false }
+read data base
+11/5/2017
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 29, name: '余徐波', code: '11725039' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3099', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3099', superuser: false }
+read data base
+{ recid: 1604,
+  goodid: 1604,
+  userid: 29,
+  invoiceid: 1605,
+  markid: 1605,
+  date: 1509681877074 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ good: { price: 90, priceall: 180, num: 2 },
+  invs: { code: '11581665', price: NaN, date: NaN, type: '浙江增值税普通发票' },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83098148417947537',
+     content: null },
+  userid: 29,
+  recordid: '1604' }
+change detail to data base
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3099', superuser: false }
+read data base
+{ recid: 1575,
+  goodid: 1575,
+  userid: 29,
+  invoiceid: 1576,
+  markid: 1576,
+  date: 1509076396951 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3099', superuser: false }
+read data base
+{ recid: 1574,
+  goodid: 1574,
+  userid: 29,
+  invoiceid: 1575,
+  markid: 1575,
+  date: 1509021894977 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3099', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3099', superuser: false }
+read data base
+{ recid: 1572,
+  goodid: 1572,
+  userid: 29,
+  invoiceid: 1573,
+  markid: 1573,
+  date: 1508989254284 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3099', superuser: false }
+read data base
+{ recid: 1603,
+  goodid: 1603,
+  userid: 29,
+  invoiceid: 1604,
+  markid: 1604,
+  date: 1509681749386 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3099', superuser: false }
+read data base
+{ recid: 1604,
+  goodid: 1604,
+  userid: 29,
+  invoiceid: 1605,
+  markid: 1605,
+  date: 1509681877074 }
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3099', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3099', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '3099', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '84512514399947537',
+     name: '钢丝绳',
+     price: 173.1,
+     priceall: 173.1,
+     num: 1,
+     buyDate: 1509931247078 },
+  invs: { code: null, price: 173.1, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?biz_order_id=84512514399947537&forward_action=',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1618
+insert rowid is 1619
+insert rowid is 1619
+insert rowid is 1618
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '8755', superuser: true }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '8755', superuser: true }
+read data base
+{ recid: 1618,
+  goodid: 1618,
+  userid: 27,
+  invoiceid: 1619,
+  markid: 1619,
+  date: 1509931281085 }
+Message <1372e01b-3a23-0a74-8c47-16a695b61a2b@163.com> sent: 250 Mail OK queued as smtp4,DtGowADX3gIQuf9Z7v4KAA--.145S2 1509931287
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '84554178549947537',
+     name: '拉力传感器',
+     price: 348,
+     priceall: 348,
+     num: 1,
+     buyDate: 1509936834867 },
+  invs: { code: null, price: 348, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?biz_order_id=84554178549947537&forward_action=',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1619
+insert rowid is 1620
+insert rowid is 1620
+insert rowid is 1619
+Message <329d1896-17dc-21ea-1af3-3635618ad19c@163.com> sent: 250 Mail OK queued as smtp2,DNGowABnbwfszv9ZaHwOAA--.12S2 1509936877
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '9903', superuser: true }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '9903', superuser: true }
+read data base
+clearNoncedb
+11/6/2017
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 29, name: '余徐波', code: '11725039' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '5811', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '5811', superuser: false }
+read data base
+{ recid: 1573,
+  goodid: 1573,
+  userid: 29,
+  invoiceid: 1574,
+  markid: 1574,
+  date: 1509006599593 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '5811', superuser: false }
+read data base
+{ recid: 1613,
+  goodid: 1613,
+  userid: 29,
+  invoiceid: 1614,
+  markid: 1614,
+  date: 1509722970209 }
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 33, name: '艾志强', code: '3140104893' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '84658451766947537',
+     name: '3D打印',
+     price: 154,
+     priceall: 154,
+     num: 1,
+     buyDate: 1509952064178 },
+  invs: { code: null, price: 154, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.58de3eaagOUh3W&bizOrderId=84658451766947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+insert rowid is 1620
+insert rowid is 1621
+insert rowid is 1621
+insert rowid is 1620
+Message <028bf43e-10f4-614d-8849-d3f56cd1e9b9@163.com> sent: 250 Mail OK queued as smtp7,C8CowABnbztrCgBaUxe5Ow--.9725S2 1509952108
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '1718', superuser: false }
+read data base
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '5811', superuser: false }
+read data base
+{ recid: 1604,
+  goodid: 1604,
+  userid: 29,
+  invoiceid: 1605,
+  markid: 1605,
+  date: 1509681877074 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '5811', superuser: false }
+read data base
+{ recid: 1603,
+  goodid: 1603,
+  userid: 29,
+  invoiceid: 1604,
+  markid: 1604,
+  date: 1509681749386 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ good: { price: 242, priceall: 242, num: 1 },
+  invs: { code: '00148946', price: NaN, date: NaN, type: '通用机打发票' },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83113688113947537',
+     content: null },
+  userid: 29,
+  recordid: '1603' }
+change detail to data base
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 29, nonce: '5811', superuser: false }
+read data base
+{ recid: 1613,
+  goodid: 1613,
+  userid: 29,
+  invoiceid: 1614,
+  markid: 1614,
+  date: 1509722970209 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ good: { price: 140, priceall: 140, num: 1 },
+  invs: { code: '12348330', price: NaN, date: NaN, type: '浙江增值税普通发票' },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=83468394468947537',
+     content: null },
+  userid: 29,
+  recordid: '1613' }
+change detail to data base
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 33, name: '艾志强', code: '3140104893' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '4223', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '84692749541947537',
+     name: '线切割加工',
+     price: 70,
+     priceall: 70,
+     num: 1,
+     buyDate: 1509961754740 },
+  invs: { code: null, price: 70, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=84692749541947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+insert rowid is 1621
+insert rowid is 1622
+insert rowid is 1622
+insert rowid is 1621
+Message <01ef1cfb-59dc-550a-3bbd-2525438b642b@163.com> sent: 250 Mail OK queued as smtp9,DcCowAAnPk9VMABaheEjPg--.55243S2 1509961813
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '4223', superuser: false }
+read data base
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 30, name: '王靖', code: '21625223' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '4074', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '4074', superuser: false }
+read data base
+{ recid: 1566,
+  goodid: 1566,
+  userid: 30,
+  invoiceid: 1567,
+  markid: 1567,
+  date: 1508738682040 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85067388866947537',
+     name: 'FUYU直线模组丝杆滑台 步进电机滚珠丝杆直线导轨 线性滑台模组',
+     price: 695,
+     priceall: 920.9,
+     num: 2,
+     buyDate: 1510029058211 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.314549ffHNgK4q&bizOrderId=85067388866947537',
+     content: '里面是两项但单项不超过800' },
+  userid: 30 }
+insert detail to data base
+insert rowid is 1622
+insert rowid is 1623
+insert rowid is 1623
+insert rowid is 1622
+Message <7510e765-915d-552e-013a-499757fe1b02@163.com> sent: 250 Mail OK queued as smtp7,C8CowACXmkB2NwFaPC9ZPA--.13662S2 1510029175
+11/7/2017
+clearNoncedb
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85067388866947537',
+     name: 'FUYU直线模组丝杆滑台 步进电机滚珠丝杆直线导轨 线性滑台模组',
+     price: 695,
+     priceall: 920.9,
+     num: 2,
+     buyDate: 1510029058211 },
+  invs: { code: null, price: NaN, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.314549ffHNgK4q&bizOrderId=85067388866947537',
+     content: '里面是两项但单项不超过800' },
+  userid: 30 }
+insert detail to data base
+{ code: -1, msg: '订单号已经存在,不要重复提交' }
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 30, name: '王靖', code: '21625223' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '4058', superuser: false }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '4058', superuser: false }
+read data base
+{ recid: 1622,
+  goodid: 1622,
+  userid: 30,
+  invoiceid: 1623,
+  markid: 1623,
+  date: 1510029174396 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 30, nonce: '4058', superuser: false }
+read data base
+{ recid: 1622,
+  goodid: 1622,
+  userid: 30,
+  invoiceid: 1623,
+  markid: 1623,
+  date: 1510029174396 }
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '2748', superuser: true }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85277584153947537',
+     name: '压力传感器',
+     price: 20,
+     priceall: 400,
+     num: 20,
+     buyDate: 1510059653950 },
+  invs: { code: null, price: 400, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=85277584153947537',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1623
+insert rowid is 1624
+insert rowid is 1624
+insert rowid is 1623
+Message <5390a30c-c95a-7e57-4631-838d46342633@163.com> sent: 250 Mail OK queued as smtp10,DsCowAC3A43CrgFaslPtCQ--.11952S2 1510059714
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '2748', superuser: true }
+read data base
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '2748', superuser: true }
+read data base
+{ recid: 1619,
+  goodid: 1619,
+  userid: 27,
+  invoiceid: 1620,
+  markid: 1620,
+  date: 1509936875687 }
+old nonce, new time, update
+4 5
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '2748', superuser: true }
+read data base
+{ recid: 1623,
+  goodid: 1623,
+  userid: 27,
+  invoiceid: 1624,
+  markid: 1624,
+  date: 1510059714092 }
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+11/8/2017
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 33, name: '艾志强', code: '3140104893' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85635091545947537',
+     name: '3D打印配件',
+     price: 608,
+     priceall: 608,
+     num: 1,
+     buyDate: 1510130506641 },
+  invs: { code: null, price: 608, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.7be4bd563XiXnS&bizOrderId=85635091545947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+insert rowid is 1624
+insert rowid is 1625
+insert rowid is 1625
+insert rowid is 1624
+Message  sent: 250 Mail OK queued as smtp12,EMCowAB3DK98wwJa9FW3Gg--.12101S2 1510130558
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85572760497947537',
+     name: '3D打印',
+     price: 133,
+     priceall: 133,
+     num: 1,
+     buyDate: 1510130577028 },
+  invs: { code: null, price: 133, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?spm=a1z09.2.0.0.7be4bd563XiXnS&bizOrderId=85572760497947537',
+     content: null },
+  userid: 33 }
+insert detail to data base
+insert rowid is 1625
+insert rowid is 1626
+insert rowid is 1626
+insert rowid is 1625
+Message <6e8b8fa0-d95c-87d8-a793-b72e4aeff609@163.com> sent: 250 Mail OK queued as smtp14,EsCowAAXkTDGwwJaD_FmCw--.64276S2 1510130630
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 33, nonce: '1392', superuser: false }
+read data base
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85654214532947537',
+     name: '海绵切割机',
+     price: 318,
+     priceall: 318,
+     num: 1,
+     buyDate: 1510134363388 },
+  invs: { code: null, price: 318, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?biz_order_id=85654214532947537&forward_action=',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1626
+insert rowid is 1627
+insert rowid is 1627
+insert rowid is 1626
+Message  sent: 250 Mail OK queued as smtp11,D8CowAA3zBGI0gJaJ38JBA--.9105S2 1510134409
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '4815', superuser: true }
+read data base
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85662951502947537',
+     name: '3D打印',
+     price: 500,
+     priceall: 500,
+     num: 1,
+     buyDate: 1510134794099 },
+  invs: { code: null, price: 500, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=85662951502947537',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1627
+insert rowid is 1628
+insert rowid is 1628
+insert rowid is 1627
+Message <8c314b1a-7750-d75e-298b-81950fd168df@163.com> sent: 250 Mail OK queued as smtp12,EMCowADHOagn1AJamt28Gg--.11941S2 1510134824
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '4815', superuser: true }
+read data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '3478', superuser: true }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '3478', superuser: true }
+read data base
+{ recid: 1548,
+  goodid: 1548,
+  userid: 27,
+  invoiceid: 1549,
+  markid: 1549,
+  date: 1507781825959 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85681571364947537',
+     name: '橡胶垫',
+     price: 8.8,
+     priceall: 132,
+     num: 15,
+     buyDate: 1510136527909 },
+  invs: { code: null, price: 132, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?biz_order_id=85681571364947537&forward_action=',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1628
+insert rowid is 1629
+insert rowid is 1629
+insert rowid is 1628
+Message  sent: 250 Mail OK queued as smtp10,DsCowABHS48e2wJa1AVOCg--.13471S2 1510136607
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '3478', superuser: true }
+read data base
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85663509314947537',
+     name: '亚克力加工',
+     price: 52,
+     priceall: 52,
+     num: 1,
+     buyDate: 1510139101884 },
+  invs: { code: null, price: 52, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=85663509314947537',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1629
+insert rowid is 1630
+insert rowid is 1630
+insert rowid is 1629
+Message <41b66d68-6143-2a75-3780-bcd28388eb19@163.com> sent: 250 Mail OK queued as smtp7,C8CowADHtAEU5QJaEOrYPA--.35174S2 1510139156
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '1538', superuser: true }
+read data base
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85701336102947537',
+     name: '电磁阀',
+     price: 25,
+     priceall: 115,
+     num: 4,
+     buyDate: 1510147404312 },
+  invs: { code: null, price: 115, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=85701336102947537',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1630
+insert rowid is 1631
+insert rowid is 1631
+insert rowid is 1630
+Message <3d5bee62-58ad-8016-768f-d0af8378913e@163.com> sent: 250 Mail OK queued as smtp8,DMCowAAnxjadBQNabdM_BA--.2138S2 1510147485
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85701336102947537',
+     name: '电磁阀',
+     price: 25,
+     priceall: 115,
+     num: 4,
+     buyDate: 1510147404312 },
+  invs: { code: null, price: 115, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=85701336102947537',
+     content: null },
+  userid: 27 }
+insert detail to data base
+{ code: -1, msg: '订单号已经存在,不要重复提交' }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '3010', superuser: true }
+read data base
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '3010', superuser: true }
+read data base
+{ recid: 1630,
+  goodid: 1630,
+  userid: 27,
+  invoiceid: 1631,
+  markid: 1631,
+  date: 1510147484965 }
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85791807053947537',
+     name: '水泵',
+     price: 125,
+     priceall: 125,
+     num: 1,
+     buyDate: 1510150559789 },
+  invs: { code: null, price: 125, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=85791807053947537',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1631
+insert rowid is 1632
+insert rowid is 1632
+insert rowid is 1631
+Message  sent: 250 Mail OK queued as smtp4,DtGowADX3RnOEQNamHdiAA--.8303S2 1510150606
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '3069', superuser: true }
+read data base
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85926431150947537',
+     name: '背胶海绵',
+     price: 119.4,
+     priceall: 119.4,
+     num: 1,
+     buyDate: 1510192531306 },
+  invs: { code: null, price: 119.4, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=85926431150947537',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1632
+insert rowid is 1633
+insert rowid is 1633
+insert rowid is 1632
+Message <64caa52a-ad75-e66b-88d2-8a8077a58cc1@163.com> sent: 250 Mail OK queued as smtp7,C8CowABXWkC8tQNavpELPQ--.22317S2 1510192572
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '7892', superuser: true }
+read data base
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+get user list
+{ userid: 27, name: '施凯戈', code: '11525035' }
+old nonce, new time, update
+0 1
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+old nonce, new time, update
+1 2
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+{ recid: 1632,
+  goodid: 1632,
+  userid: 27,
+  invoiceid: 1633,
+  markid: 1633,
+  date: 1510192572459 }
+old nonce, new time, update
+2 3
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+{ recid: 1632,
+  goodid: 1632,
+  userid: 27,
+  invoiceid: 1633,
+  markid: 1633,
+  date: 1510192572459 }
+old nonce, new time, update
+3 4
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+{ recid: 1632,
+  goodid: 1632,
+  userid: 27,
+  invoiceid: 1633,
+  markid: 1633,
+  date: 1510192572459 }
+clearNoncedb
+clearNoncedb
+11/9/2017
+clearNoncedb
+new nonce, write into nonce database
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+{ recid: 1632,
+  goodid: 1632,
+  userid: 27,
+  invoiceid: 1633,
+  markid: 1633,
+  date: 1510192572459 }
+old nonce, new time, update
+5 6
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+{ recid: 1632,
+  goodid: 1632,
+  userid: 27,
+  invoiceid: 1633,
+  markid: 1633,
+  date: 1510192572459 }
+old nonce, new time, update
+6 7
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+{ recid: 1632,
+  goodid: 1632,
+  userid: 27,
+  invoiceid: 1633,
+  markid: 1633,
+  date: 1510192572459 }
+old nonce, new time, update
+7 8
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+{ recid: 1632,
+  goodid: 1632,
+  userid: 27,
+  invoiceid: 1633,
+  markid: 1633,
+  date: 1510192572459 }
+old nonce, new time, update
+8 9
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+{ recid: 1632,
+  goodid: 1632,
+  userid: 27,
+  invoiceid: 1633,
+  markid: 1633,
+  date: 1510192572459 }
+old nonce, new time, update
+9 10
+getPSWD read data base
+authorized successfully
+{ good: 
+   { code: '85982206352947537',
+     name: '双面胶带',
+     price: 145,
+     priceall: 145,
+     num: 1,
+     buyDate: 1510203095056 },
+  invs: { code: null, price: 145, date: NaN, type: null },
+  mark: 
+   { link: 'https://trade.tmall.com/detail/orderDetail.htm?biz_order_id=85982206352947537&forward_action=',
+     content: null },
+  userid: 27 }
+insert detail to data base
+insert rowid is 1633
+insert rowid is 1634
+insert rowid is 1634
+insert rowid is 1633
+Message <2a17429a-c605-7e25-2167-1c16adc15859@163.com> sent: 250 Mail OK queued as smtp13,EcCowACnYswA3wNa9w3IPQ--.45269S2 1510203138
+old nonce, new time, update
+10 11
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+old nonce, new time, update
+11 12
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+{ recid: 1631,
+  goodid: 1631,
+  userid: 27,
+  invoiceid: 1632,
+  markid: 1632,
+  date: 1510150605426 }
+old nonce, new time, update
+12 13
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+old nonce, new time, update
+13 14
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+{ recid: 1633,
+  goodid: 1633,
+  userid: 27,
+  invoiceid: 1634,
+  markid: 1634,
+  date: 1510203136791 }
+old nonce, new time, update
+14 15
+getPSWD read data base
+authorized successfully
+{ userid: 27, nonce: '5002', superuser: true }
+read data base
+{ recid: 1633,
+  goodid: 1633,
+  userid: 27,
+  invoiceid: 1634,
+  markid: 1634,
+  date: 1510203136791 }
+        
